@@ -14,4 +14,4 @@ Resources are free. Mentorship is not.
 - **DevGateway:** https://forms.gle/2KrtMf8kawDXnEhU6 (Official Mentorship)
 
 ## ⚠️ Usage
-See [LICENSE](./LICENSE). Basically: Use it to learn, don't sell it, credit me.
+See [LICENSE](LICENSE.md). Basically: Use it to learn, don't sell it, credit me.
